@@ -5,8 +5,8 @@ import { auth } from './firebase';
 import Header from './Components/header';
 import Footer from './Components/footer';
 import HomePage from './pages/HomePage';
-import LoginPage from './pages/Loginpage';
-import SignUpPage from './pages/Signuppage';
+import LoginPage from './pages/LoginPage';
+import SignUpPage from './pages/SignUpPage';
 import './App.css';
 import PostPage from './pages/PostPage';
 export default function App() {
